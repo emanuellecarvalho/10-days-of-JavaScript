@@ -4,5 +4,5 @@
   
   <h2> Respostas do Desafio: </h2>
 
-1. [Hello Word](https://github.com/emanuellecarvalho/10-days-of-JavaScript-HackerRank/blob/main/hello-word.js);
+1. [Hello World](https://github.com/emanuellecarvalho/10-days-of-JavaScript-HackerRank/blob/main/hello-world.js);
 2. [Data Types](https://github.com/emanuellecarvalho/10-days-of-JavaScript-HackerRank/blob/main/data-types.js);
